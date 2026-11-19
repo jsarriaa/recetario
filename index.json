@@ -1,0 +1,79 @@
+{
+ "format": "cpl-recetario/1",
+ "recipes": [
+  {
+   "path": "recipes/lentejas-estofadas.md",
+   "title": "Lentejas estofadas con verduras",
+   "servings": 4,
+   "uid": "recetario-lentejas-estofadas",
+   "author": "jsarriaa",
+   "description": "Lentejas pardinas de toda la vida, con zanahoria, pimiento y pimentón. Sin carne, y aún mejor al día siguiente.",
+   "total_minutes": 60,
+   "tags": [
+    "comida",
+    "cuchara",
+    "económica",
+    "vegana"
+   ],
+   "ingredients": [
+    "lenteja pardina",
+    "zanahoria",
+    "cebolla",
+    "pimiento verde",
+    "patata",
+    "ajo",
+    "tomate triturado",
+    "pimentón dulce",
+    "comino molido",
+    "aceite de oliva virgen extra",
+    "sal"
+   ]
+  },
+  {
+   "path": "recipes/tacos-de-pollo.md",
+   "title": "Tacos de pollo con aguacate y mozzarella",
+   "servings": 2,
+   "uid": "ejemplo-tacos-de-pollo",
+   "author": "jsarriaa",
+   "description": "Tacos rápidos de contramuslo de pollo con especias tex-mex, tortillas maxi, aguacate, tomate cherry y mozzarella fundida.",
+   "total_minutes": 30,
+   "tags": [
+    "cena",
+    "mexicana",
+    "rápida"
+   ],
+   "ingredients": [
+    "contramuslo de pollo deshuesado",
+    "tortilla de trigo maxi",
+    "aguacate",
+    "tomate cherry",
+    "mozzarella rallada",
+    "sazonador para fajitas",
+    "aceite de oliva virgen extra",
+    "sal"
+   ]
+  },
+  {
+   "path": "recipes/tortilla-de-patatas.md",
+   "title": "Tortilla de patatas con cebolla",
+   "servings": 4,
+   "uid": "recetario-tortilla-de-patatas",
+   "author": "jsarriaa",
+   "description": "Jugosa por dentro, con la patata y la cebolla pochadas despacio.",
+   "total_minutes": 50,
+   "tags": [
+    "cena",
+    "española",
+    "sin gluten",
+    "vegetariana"
+   ],
+   "ingredients": [
+    "patata",
+    "huevo",
+    "cebolla",
+    "aceite de oliva",
+    "sal"
+   ]
+  }
+ ]
+}
