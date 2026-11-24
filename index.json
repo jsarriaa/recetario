@@ -2,28 +2,6 @@
  "format": "cpl-recetario/1",
  "recipes": [
   {
-   "path": "recipes/tortilla-de-patatas-con-cebolla-8e482d.md",
-   "title": "Tortilla de patatas con cebolla",
-   "servings": 4,
-   "uid": "recetario-tortilla-de-patatas",
-   "author": "Prueba",
-   "description": "Jugosa por dentro, con la patata y la cebolla pochadas despacio.",
-   "total_minutes": 50,
-   "tags": [
-    "cena",
-    "española",
-    "sin gluten",
-    "vegetariana"
-   ],
-   "ingredients": [
-    "patata",
-    "huevo",
-    "cebolla",
-    "aceite de oliva",
-    "sal"
-   ]
-  },
-  {
    "path": "recipes/lentejas-estofadas.md",
    "title": "Lentejas estofadas con verduras",
    "servings": 4,
