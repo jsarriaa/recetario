@@ -18,11 +18,13 @@ app: Recetas → ⋮ → Recetas de la comunidad.*
 
 ## Moderation
 
-The owner ([@jsarriaa](https://github.com/jsarriaa)) can edit or delete any recipe here,
-for example in GitHub's web editor. The index updates by itself a minute later, and the app
-sees the change on its next search (GitHub's file cache can take up to 5 minutes).
+Recipes arrive from the app's "Publicar en la comunidad" (one new file per publication), or
+are added by hand. The owner ([@jsarriaa](https://github.com/jsarriaa)) can edit or delete any
+recipe in GitHub's web editor. The index updates by itself a minute later, and the app sees the
+change on its next search (GitHub's file cache can take up to 5 minutes).
 
-Publishing from the app is not available yet. Until then, recipes are added by the owner.
+Step-by-step guide (change, delete, add, check, undo):
+[Editing the community recipe book on GitHub](https://github.com/jsarriaa/recipe-cart#editing-the-community-recipe-book-on-github).
 
 ## Licence
 
